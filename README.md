@@ -22,7 +22,7 @@ Sou um desenvolvedor apaixonado por tecnologia e programação. Tenho experiênc
 
 ## Contato
 
-- [LinkedIn](www.linkedin.com/in/rafael-celio-da-silva-5700a21b4) _(adicione seu perfil)_
+- [LinkedIn](www.linkedin.com/in/rafael-celio-da-silva-5700a21b4)
 - Email: _rafael22celio@gmail.com_
 
 ---
